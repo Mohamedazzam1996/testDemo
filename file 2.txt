@@ -2,3 +2,5 @@ We Tedate
 ,,,,,,,,,,,
 
 add()
+
+delete()
